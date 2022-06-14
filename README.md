@@ -36,12 +36,11 @@ Apply metrics to the dataset, and predict the output.
 ## Program:
 ```
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
-Developed by: Monisha T
-RegisterNumber: 212221240029 
+Developed by: pragatheesvaran AB
+RegisterNumber: 212221240039 
 
 ```
-
-```python
+```
 
 import pandas as pd
 data = pd.read_csv("Salary.csv")
